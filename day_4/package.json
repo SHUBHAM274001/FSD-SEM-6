@@ -1,0 +1,24 @@
+{
+  "name": "abes2026fsd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neeraj123125/abes2026fsd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Neeraj123125/abes2026fsd/issues"
+  },
+  "homepage": "https://github.com/Neeraj123125/abes2026fsd#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
